@@ -19,3 +19,46 @@ a{
 
 }
 
+#body {
+
+	background: #006622;
+	width: 600;
+	height: 275;
+	border-radius:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+
+}
+
+#image {
+
+	background: #b30086;
+	width: 600;
+	height: 620;
+	border-radius:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+
+	}
+
+#body2 {
+
+    width: 600;
+	height: 50;
+	border-radius:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+
+}
+
+}
+
+
+a {
+
+	display: block;
+
+}
